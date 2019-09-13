@@ -1,3 +1,6 @@
 languageCode = "ja"
-title = "ゴリラ.vimのサイト"
 theme = "ananke"
+title = "ゴリラ.vimのサイト(仮"
+
+[params]
+  commentoEnable = true
