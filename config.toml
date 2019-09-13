@@ -1,6 +1,6 @@
 languageCode = "ja"
 theme = "ananke"
-title = "HUGOのテストサイト"
+title = "ゴリラ.vim（仮"
 
 [params]
   commentoEnable = true
